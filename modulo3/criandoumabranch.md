@@ -6,3 +6,5 @@
 
 **git branch = vai mostrar todas as branch**
 **git branch (nome) = vai entrar na branch selecionada**
+
+**pode tambem criar branch pelo github**
